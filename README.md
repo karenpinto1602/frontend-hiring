@@ -17,7 +17,7 @@ http://localhost:3000/events <br />
 
 combined: http://localhost:3000/db
 
-### Remote Links: 
+### Remote Links (To be used by the interns): 
 
 FAQs: https://karenpinto1602.github.io/frontend-hiring/faq.json <br />
 
