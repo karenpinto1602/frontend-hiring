@@ -34,7 +34,7 @@ function Sample() {
     const [faqs, setFaqsData] = useState();
 
     //Get data
-    function getCards(e) {
+    function getFAQs() {
         Axios.get(url)
             .then(response => {
                 setFaqsData(response.data)
@@ -53,8 +53,8 @@ function Sample() {
 
     //Post data
     // Strictly informative, NOT TO BE TOUCHED BY THE INTERNS
-    function submit(e) {
-        Axios.post(jobs_url, {
+    function postFAQs() {
+        Axios.post(url, {
             "question" : "What is you Name?",
             "answer" : "My Name is XZY"
         })
