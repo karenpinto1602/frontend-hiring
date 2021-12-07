@@ -7,13 +7,15 @@ Creating Fake API's using JSONPlaceholder
 ```npm i```
 
 ```npm run json:server```
+which runs the db.json file, to access individual json file (faq or events), change the file name in package.json(line 7)
 
 ### Localhost
 
 http://localhost:3000/faq <br/>
 
-http://localhost:3000/events 
+http://localhost:3000/events <br />
 
+combined: http://localhost:3000/db
 
 ### Remote Links: 
 
