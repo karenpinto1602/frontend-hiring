@@ -1,0 +1,29 @@
+{
+    "faq": [
+        {
+            "id": "1",
+            "question": "What is Protal?",
+            "answer": "It's an online social media platform to help people showcase their raw talents"
+        },
+        {
+            "id": "2",
+            "question": "What is your role as an intern?",
+            "answer": "To work on various React components and implement them on the beta website"
+        },
+        {
+            "id": "3",
+            "question": "How long is the internship period?",
+            "answer": "Minimum of 3 months"
+        },
+        {
+            "id": "4",
+            "question": "Will I receive a certificate of completion?",
+            "answer": "On completeion of the given tasks in the given time period, you will receive a certificate and an LOR based on your performance"
+        },
+        {
+            "id": "5",
+            "question": "Can I continue as a Protal memeber even after the completion of my internship?",
+            "answer": "Yes"
+        }
+    ]
+}
