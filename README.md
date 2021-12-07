@@ -1,4 +1,4 @@
-# frontent-hiring
+# frontend-hiring
 
 Creating Fake API's using JSONPlaceholder
 
@@ -17,9 +17,9 @@ http://localhost:3000/events
 
 ### Remote Links: 
 
-FAQs: https://karenpinto1602.github.io/frontent-hiring/faq.json <br />
+FAQs: https://karenpinto1602.github.io/frontend-hiring/faq.json <br />
 
-Events: https://karenpinto1602.github.io/frontent-hiring/events.json <br />
+Events: https://karenpinto1602.github.io/frontend-hiring/events.json <br />
 
 ### Example to access the data using react axios from faq.json
 
@@ -29,7 +29,7 @@ import Axios from 'axios';
 import { useState } from 'react';
 
 function Sample() {
-    const url = 'https://karenpinto1602.github.io/frontent-hiring/faq.json';
+    const url = 'https://karenpinto1602.github.io/frontend-hiring/faq.json';
 
     const [faqs, setFaqsData] = useState();
 
