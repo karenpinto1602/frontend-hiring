@@ -12,4 +12,4 @@ Creating Fake API's using JSONPlaceholder
 
 http://localhost:3000/faq <br/>
 
-http://localhost:events
+http://localhost:3000/events
