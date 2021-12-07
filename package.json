@@ -1,0 +1,22 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "Temp APIs for frontend hiring",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karenpinto1602/frontent-hiring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karenpinto1602/frontent-hiring/issues"
+  },
+  "homepage": "https://github.com/karenpinto1602/frontent-hiring#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
