@@ -1,87 +1,85 @@
-{
-    "events": [
-        {
-            "id": "1",
-            "title": "Event 1",
-            "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
-            "date": "1640413800",
-            "domain": [
-                "Singing"
-            ]
-        },
-        {
-            "id": "2",
-            "title": "Event 2",
-            "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
-            "date": "1640968200",
-            "domain": [
-                "Dancing"
-            ]
-        },
-        {
-            "id": "3",
-            "title": "Event 3",
-            "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
-            "date": "1658759400",
-            "domain": [
-                "Singing",
-                "Dancing"
-            ]
-        },
-        {
-            "id": "4",
-            "title": "Event 4",
-            "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
-            "date": "1653496200",
-            "domain": [
-                "Cooking"
-            ]
-        },
-        {
-            "id": "5",
-            "title": "Event 5",
-            "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
-            "date": "1653453000",
-            "domain": [
-                "Art",
-                "Photography"
-            ]
-        },
-        {
-            "id": "6",
-            "title": "Event 6",
-            "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
-            "date": "1639985400",
-            "domain": [
-                "Photography"
-            ]
-        },
-        {
-            "id": "7",
-            "title": "Event 7",
-            "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
-            "date": "1645014600",
-            "domain": [
-                "Singing"
-            ]
-        },
-        {
-            "id": "8",
-            "title": "Event 8",
-            "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
-            "date": "1648794600",
-            "domain": [
-                "Singing"
-            ]
-        },
-        {
-            "id": "9",
-            "title": "Event 9",
-            "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
-            "date": "1648218600",
-            "domain": [
-                "Art"
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "1",
+        "title": "Event 1",
+        "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
+        "date": "1640413800",
+        "domain": [
+            "Singing"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Event 2",
+        "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
+        "date": "1640968200",
+        "domain": [
+            "Dancing"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Event 3",
+        "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
+        "date": "1658759400",
+        "domain": [
+            "Singing",
+            "Dancing"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Event 4",
+        "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
+        "date": "1653496200",
+        "domain": [
+            "Cooking"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Event 5",
+        "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
+        "date": "1653453000",
+        "domain": [
+            "Art",
+            "Photography"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Event 6",
+        "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
+        "date": "1639985400",
+        "domain": [
+            "Photography"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Event 7",
+        "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
+        "date": "1645014600",
+        "domain": [
+            "Singing"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Event 8",
+        "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
+        "date": "1648794600",
+        "domain": [
+            "Singing"
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Event 9",
+        "decription": "This is the description - lorem ipsium cnnalm ncvdjvkd mvndvdkvdk djvjd vmekjv ncklovhland nvlsvla nvaklnvla nalvl cnlkqnvlkq nvlaknbvla nabvax nalknvav nclabvl vablvbakva.",
+        "date": "1648218600",
+        "domain": [
+            "Art"
+        ]
+    }
+]
